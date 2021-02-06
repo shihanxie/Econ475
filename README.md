@@ -11,5 +11,4 @@ The link is to Google Colab
 https://colab.research.google.com/github/shihanxie/Econ475/blob/main/intro_to_python.ipynb
 
 2. Modeling and Forecasting Trend
-https://colab.research.google.com/github/shihanxie/Econ475/blob/main/2.Modeling&ForecastingTrend.ipynb
 
