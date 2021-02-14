@@ -12,3 +12,6 @@ https://colab.research.google.com/github/shihanxie/Econ475/blob/main/intro_to_py
 
 2. Modeling and Forecasting Trend
 https://colab.research.google.com/github/shihanxie/Econ475/blob/main/2_Modeling%26ForecastingTrend.ipynb
+
+3. Modeling and Forecasting Seasonality
+https://colab.research.google.com/github/shihanxie/Econ475/blob/main/3_Modeling%26ForecastingSeasonality.ipynb
