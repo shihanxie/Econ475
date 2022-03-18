@@ -1,11 +1,9 @@
 # Econ475
 Instructor: Shihan Xie
 Email: shihanx at illinois dot edu
+Website: https://sites.google.com/view/shihanxie
 
-TA: Linjia Feng
-Email: linjiaf2 at illinois dot edu
-
-Course repo 2021 Fall Semester Econ475 at UIUC.
+Course repo Econ475 Economic Forecasting at UIUC.
 The link is to Google Colab
 
 1. Course introduction
